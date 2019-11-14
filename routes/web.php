@@ -24,5 +24,5 @@ Route::get('/student', function() {
 });
 
 Route::get('/padao', function() {
-    return view ('/padao');
+    return view ('padao');
 });
